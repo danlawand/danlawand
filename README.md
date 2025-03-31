@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daniel Lawand</h1>
+<h1 align="center">Hi, I'm Daniel Lawand</h1>
 <h3 align="center">Passionate about creating Intelligent Systems solutions.</h3>
 
 - 🔭 I’m currently working on [Causal Reasoning project](https://c2d.poli.usp.br/index.html#linhas-de-pesquisa)
