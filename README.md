@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Causal Reasoning project](https://c2d.poli.usp.br/index.html#linhas-de-pesquisa)
 
-- 🌱 I’m currently learning **Causality and Probabilistic Algorithms**
+- 🌱 I’m currently learning **Causality, System Design, and General Data Structures and Algorithms**
 
 - 📫 How to reach me **daniel.lawand@gmail.com**
 
